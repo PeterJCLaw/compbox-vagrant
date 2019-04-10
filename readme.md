@@ -3,6 +3,8 @@
 CompBox is the [Student Robotics](http://studentrobotics.org) copmetition server.
 This is a vagrant configuration that will very easily go from scratch to a vagrantbox.
 
+**Deprecated! This is deprecated in favour of the [SRComp suite](https://github.com/PeterJCLaw/srcomp/wiki) and specifically [srcomp-puppet](https://github.com/PeterJCLaw/srcomp-puppet).**
+
 ## Setup
 
 1. Install virtualbox
