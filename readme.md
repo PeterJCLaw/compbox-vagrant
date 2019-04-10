@@ -1,9 +1,9 @@
-#CompBox Vagrant
+# CompBox Vagrant
 
 CompBox is the [Student Robotics](http://studentrobotics.org) copmetition server.
 This is a vagrant configuration that will very easily go from scratch to a vagrantbox.
 
-##Setup
+## Setup
 
 1. Install virtualbox
 2. Install vagrant (this may require ruby 1.9.3+ including development headers if going via a gem).
@@ -14,7 +14,7 @@ This is a vagrant configuration that will very easily go from scratch to a vagra
    vagrant user to root. In case you need to know the password it's 'vagrant'
 
 
-##Some details
+## Some details
 
 The Vagrant basebox upon which this is based is a fedora-17-i386 install with
 very little else installed on top of it apart from those needed to make it
